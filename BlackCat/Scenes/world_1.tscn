@@ -855,7 +855,7 @@ script = ExtResource("4_buiw7")
 sprite_frames = SubResource("SpriteFrames_6u0me")
 animation = &"walk"
 autoplay = "walk"
-frame_progress = 0.867955
+frame_progress = 0.773822
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 position = Vector2(0, 1)
@@ -867,7 +867,7 @@ shape = SubResource("RectangleShape2D_maxbg")
 position = Vector2(-33, -7)
 sprite_frames = SubResource("SpriteFrames_slsof")
 autoplay = "default"
-frame_progress = 0.801779
+frame_progress = 0.707646
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D2"]
 position = Vector2(-33, 2)
